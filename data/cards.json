@@ -1,0 +1,42 @@
+[
+    {
+        "image": "assets/Alice.png",
+        "name": "Alice"
+    },
+    {
+        "image": "../assets/grapes.png",
+        "name": "Bette"
+    },
+    {
+        "image": "../assets/lemon.png",
+        "name": "Carmen"
+    },
+    {
+        "image": "../assets/orange.png",
+        "name": "Dana"
+    },
+    {
+        "image": "../assets/pineapple.png",
+        "name": "Helena"
+    },
+    {
+        "image": "../assets/strawberry.png",
+        "name": "Jenny"
+    },
+    {
+        "image": "../assets/tomato.png",
+        "name": "Marina"
+    },
+    {
+        "image": "../assets/watermelon.png",
+        "name": "Shane"
+    },
+    {
+        "image": "../assets/cherries.png",
+        "name": "Tasha"
+    },
+    {
+        "image": "",
+        "name": "Tina"
+    }
+]
